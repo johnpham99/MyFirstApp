@@ -12,7 +12,7 @@ This project uses:
 ## Screenshots
 <img src="https://github.com/johnpham99/MyFirstApp/blob/main/Screenshots/1.png" width="250"><img src="https://github.com/johnpham99/MyFirstApp/blob/main/Screenshots/2.png" width="250"><img src="https://github.com/johnpham99/MyFirstApp/blob/main/Screenshots/3.png" width="250">
 
-In the application, you type a message into the TextField. When you press send, the app goes to another screen where it prints out the message.
+In the application, you type a message into the textfield. When you press send, the app goes to another screen where it prints out the message.
 
 ## Setup
 To run this project, launch Android Studio and run with a device api.
